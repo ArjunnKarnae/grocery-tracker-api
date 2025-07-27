@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "grocery-tracker-api"
+
+  data:
+    mongodb:
+      uri: "mongodb+srv://arjunkarnae:ylTkvDzykNpfYZdZ@cluster0.6yymcol.mongodb.net/grocery-tracker-db?retryWrites=true&w=majority&appName=Cluster0"
